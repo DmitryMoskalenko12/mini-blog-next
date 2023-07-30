@@ -1,6 +1,8 @@
 function PostDetailPage() {
   return (
     <>
+    <Hero/>
+    <FeaturedPosts/>
     </>
   )
 }
